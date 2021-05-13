@@ -49,12 +49,9 @@ Interración, Sincronización y Acomplamiento
 |Video|"Cree en tu talento y trabaja para desarrollarlo". Jorge Ruiz|https://www.youtube.com/watch?v=aw0_ModWHbA|
 |Video|"Enseñar es un arte". Ken Robinson, educador y escritor|https://www.youtube.com/watch?v=WP8WSK-6Pj0|
 |Video|Las claves de la genialidad: curiosidad, perseverancia y pasión. Christian Gálvez|https://www.youtube.com/watch?v=adADgAbglSw|
-
-
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
+|Video|“Las matemáticas nos hacen más libres y menos manipulables”. Eduardo Sáenz de Cabezón|https://www.youtube.com/watch?v=BbA5dpS4CcI|
+|Video|Matemáticas para la vida real. Adrián Paenza, matemático|https://www.youtube.com/watch?v=V33U1OsFVnQ|
+|Video|“La educación es un arma muy importante para la autoestima”. Dr. Valentín Fuster|https://www.youtube.com/watch?v=ra0QjuGlk7Y|
 
 |Contenido|Información|URl|
 
@@ -74,10 +71,8 @@ Interración, Sincronización y Acomplamiento
 
 |Contenido|Información|URl|
 
-|Contenido|Información|URl|
+|Video|Los Amos del Dinero|https://www.youtube.com/watch?v=3r_-4GsEUzc|
 
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
+|Video|Bulos y certezas. ¿Por qué dudamos de la ciencia? | DW Documental|https://www.youtube.com/watch?v=A4azhF5pZWU|
 
 |Contenido|Información|URl|
