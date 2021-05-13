@@ -21,6 +21,8 @@ Frases de Hacking Civico
 Interración, Sincronización y Acomplamiento
 
 
+
+
 |Contenido|Información|URl|
 | ----- | ----- | ----- |
 |Video|¿Qué hacemos cuando no sabemos qué hacer? - Yanina López - TEDxTandil|https://www.youtube.com/watch?v=HLl9cjVA7kE|
@@ -31,3 +33,6 @@ Interración, Sincronización y Acomplamiento
 |Video|Dime cómo hablas y te diré quién eres - Jousin Palafox - EDxTijuana|https://www.youtube.com/watch?v=3X30vGbLol8|
 |Video|Tres competencias básicas para el futuro - Pablo Heinig - TEDxCordoba|https://www.youtube.com/watch?v=cQVg1LfmGhE|
 |Video|¿Qué tienen los pobres en la cabeza? - Mayra Arena - TEDxBahiaBlanca|https://www.youtube.com/watch?v=4JDu69Jy41Y|
+|Video|Atrévete a cambiar un hábito - Yesid Barrera - TEDxUFM|https://www.youtube.com/watch?v=fE8y9V-XyWw|
+|Video|Leer es resistir - Benito Taibo - TEDxUNAMAcatlán|https://www.youtube.com/watch?v=iTEz1yOmepQ|
+|Video|Hazte Cargo de ti - Ricardo Morán TEDxLima|https://www.youtube.com/watch?v=okumzdhTId0|
