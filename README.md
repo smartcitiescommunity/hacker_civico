@@ -26,4 +26,8 @@ Interración, Sincronización y Acomplamiento
 |Video|¿Qué hacemos cuando no sabemos qué hacer? - Yanina López - TEDxTandil|https://www.youtube.com/watch?v=HLl9cjVA7kE|
 |Video|Cómo hablar con otros que piensan distinto - Guadalupe Nogués - TEDxRiodelaPlata|https://www.youtube.com/watch?v=ESwDIXXyh_Y|
 |Video|Comunicación efectiva - Maricela Gastelú Userralde - TEDxYouth@JesúsMaría|https://www.youtube.com/watch?v=uwXUJ0quTlg|
+|Video|El poder de una conversación: Álvaro González-Alorda at TEDxPuraVida|https://www.youtube.com/watch?v=aQ-IeBfQwGM|
+|Video|Claves para detectar la mentira - José Luis Martín Ovejero - TEDxAlcoi|https://www.youtube.com/watch?v=Veh7aIhSm_M|
+|Video|Dime cómo hablas y te diré quién eres - Jousin Palafox - EDxTijuana|https://www.youtube.com/watch?v=3X30vGbLol8|
+
 
