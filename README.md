@@ -23,4 +23,4 @@ Interración, Sincronización y Acomplamiento
 
 |Contenido|Información|URl|
 | ----- | ----- | ----- |
-|Video|¿Qué hacemos cuando no sabemos qué hacer? | Yanina López | TEDxTandil|https://www.youtube.com/watch?v=HLl9cjVA7kE|
+|Video|¿Qué hacemos cuando no sabemos qué hacer? - Yanina López - TEDxTandil|https://www.youtube.com/watch?v=HLl9cjVA7kE|
