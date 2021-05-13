@@ -37,6 +37,29 @@ Interración, Sincronización y Acomplamiento
 |Video|Leer es resistir - Benito Taibo - TEDxUNAMAcatlán|https://www.youtube.com/watch?v=iTEz1yOmepQ|
 |Video|Hazte Cargo de ti - Ricardo Morán TEDxLima|https://www.youtube.com/watch?v=okumzdhTId0|
 |Video|Zapatos nuevos - Pachi Tamer - TEDxRosario|https://www.youtube.com/watch?v=13Dy45RHFlk|
+|Video|Hackear la política: Santiago Siri at TEDxCordoba|https://www.youtube.com/watch?v=YBR84aZTPTU|
+|Video|Crónicas de un hacker - El Cuervo - TEDxMontevideo|https://www.youtube.com/watch?v=SxrgTY3a-xs|
+|Video|La política del futuro - Julia Pomares - TEDxRiodelaPlata|https://www.youtube.com/watch?v=hpkE95MS0Kg|
+|Video|Hackear la política: Pía Mancini at TEDxPuraVida 2014|https://www.youtube.com/watch?v=VHhtB7y6Hk0|
+|Video|¡Urgen hackers! - Ronald González - TEDxAntiguoCuscatlan|https://www.youtube.com/watch?v=HtxeH7uM5XU|
+|Video|¿Se puede vivir al margen de la política? - Silvina Brussino - TEDxCordoba|https://www.youtube.com/watch?v=vfqhfvlcy6Q|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
+
 
 
 ## Aprendemos Juntos
@@ -53,17 +76,7 @@ Interración, Sincronización y Acomplamiento
 |Video|Matemáticas para la vida real. Adrián Paenza, matemático|https://www.youtube.com/watch?v=V33U1OsFVnQ|
 |Video|“La educación es un arma muy importante para la autoestima”. Dr. Valentín Fuster|https://www.youtube.com/watch?v=ra0QjuGlk7Y|
 
-|Contenido|Información|URl|
 
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
 
 |Contenido|Información|URl|
 
