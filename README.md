@@ -25,3 +25,5 @@ Interración, Sincronización y Acomplamiento
 | ----- | ----- | ----- |
 |Video|¿Qué hacemos cuando no sabemos qué hacer? - Yanina López - TEDxTandil|https://www.youtube.com/watch?v=HLl9cjVA7kE|
 |Video|Cómo hablar con otros que piensan distinto - Guadalupe Nogués - TEDxRiodelaPlata|https://www.youtube.com/watch?v=ESwDIXXyh_Y|
+|Video|Comunicación efectiva - Maricela Gastelú Userralde - TEDxYouth@JesúsMaría|https://www.youtube.com/watch?v=uwXUJ0quTlg|
+
