@@ -43,16 +43,11 @@ Interración, Sincronización y Acomplamiento
 |Video|Hackear la política: Pía Mancini at TEDxPuraVida 2014|https://www.youtube.com/watch?v=VHhtB7y6Hk0|
 |Video|¡Urgen hackers! - Ronald González - TEDxAntiguoCuscatlan|https://www.youtube.com/watch?v=HtxeH7uM5XU|
 |Video|¿Se puede vivir al margen de la política? - Silvina Brussino - TEDxCordoba|https://www.youtube.com/watch?v=vfqhfvlcy6Q|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
+|Video|Cómo eliminar la corrupción estructural - Hugo Alconada Mon - TEDxRiodelaPlata|https://www.youtube.com/watch?v=AWIXgHaliSQ|
+|Video|¿Por qué deberían votar los jóvenes? - Karim Hallal Peche - TEDxYouth@Madrid|https://www.youtube.com/watch?v=lzertig2crA|
+|Video|La política es compleja (y negarlo es peligroso) - Kiko Llaneras - TEDxUPValència|https://www.youtube.com/watch?v=VVsKkzkmnvI|
+|Video|El poder de los no políticos para actualizar el sistema - Javier Medina - TEDxUCV|https://www.youtube.com/watch?v=NSk7uN9ywkE|
+|Video|Cuando sabes quien eres, sabes lo que tienes que hacer - Alejandra Acosta - TEDxYouth@Valladolid|https://www.youtube.com/watch?v=DC9pAFnmiWY|
 
 |Contenido|Información|URl|
 
