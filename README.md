@@ -42,20 +42,15 @@ Interración, Sincronización y Acomplamiento
 ## Aprendemos Juntos
 |Contenido|Información|URl|
 | ----- | ----- | ----- |
-
 |Video|Cómo Einstein me ayudó a convertirme en científico. Michio Kaku, físico|https://www.youtube.com/watch?v=kpvwqwcMrU8|
-
 |Video|Filosofía para cuestionar el mundo que nos rodea. José Carlos Ruiz, filósofo y profesor|https://www.youtube.com/watch?v=u2G5hSsC1UI|
-
 |Video|¿Para qué sirve la ética? Adela Cortina, filósofa|https://www.youtube.com/watch?v=HOY0CSVAA4w|
-
 |Video|Cómo convertirnos en la persona que queremos ser. Enhamed Enhamed|https://www.youtube.com/watch?v=x7jrGIsIQUA|
-
 |Video|"Cree en tu talento y trabaja para desarrollarlo". Jorge Ruiz|https://www.youtube.com/watch?v=aw0_ModWHbA|
-
 |Video|"Enseñar es un arte". Ken Robinson, educador y escritor|https://www.youtube.com/watch?v=WP8WSK-6Pj0|
-
 |Video|Las claves de la genialidad: curiosidad, perseverancia y pasión. Christian Gálvez|https://www.youtube.com/watch?v=adADgAbglSw|
+
+
 
 |Contenido|Información|URl|
 
