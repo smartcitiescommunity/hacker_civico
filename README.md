@@ -70,14 +70,26 @@ Interración, Sincronización y Acomplamiento
 |Video|“Las matemáticas nos hacen más libres y menos manipulables”. Eduardo Sáenz de Cabezón|https://www.youtube.com/watch?v=BbA5dpS4CcI|
 |Video|Matemáticas para la vida real. Adrián Paenza, matemático|https://www.youtube.com/watch?v=V33U1OsFVnQ|
 |Video|“La educación es un arma muy importante para la autoestima”. Dr. Valentín Fuster|https://www.youtube.com/watch?v=ra0QjuGlk7Y|
+|Video||LO QUE TÚ PUEDES HACER POR LA DEMOCRACIA| | Mariana Niembro | TEDxCiudadDeMéxico|https://www.youtube.com/watch?v=u-N0f__Sn6g|
 
+|Contenido|Información|https://www.youtube.com/watch?v=gcpGscR0gf8|
 
+|Contenido|Información|Polarización política: "La izquierda es derecha" - Oswaldo Casares | https://www.youtube.com/watch?v=SHtirPgxwuo|
+|Contenido|Información|URl|
 
+|Contenido|Información|URl|
+|Contenido|Información|URl|
+
+|Contenido|Información|URl|
 |Contenido|Información|URl|
 
 |Contenido|Información|URl|
 
-|Contenido|Información|URl|
+
+
+
+
+
 
 |Video|Los Amos del Dinero|https://www.youtube.com/watch?v=3r_-4GsEUzc|
 
