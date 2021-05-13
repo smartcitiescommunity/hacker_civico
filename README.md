@@ -29,5 +29,5 @@ Interración, Sincronización y Acomplamiento
 |Video|El poder de una conversación: Álvaro González-Alorda at TEDxPuraVida|https://www.youtube.com/watch?v=aQ-IeBfQwGM|
 |Video|Claves para detectar la mentira - José Luis Martín Ovejero - TEDxAlcoi|https://www.youtube.com/watch?v=Veh7aIhSm_M|
 |Video|Dime cómo hablas y te diré quién eres - Jousin Palafox - EDxTijuana|https://www.youtube.com/watch?v=3X30vGbLol8|
-
-
+|Video|Tres competencias básicas para el futuro - Pablo Heinig - TEDxCordoba|https://www.youtube.com/watch?v=cQVg1LfmGhE|
+|Video|¿Qué tienen los pobres en la cabeza? - Mayra Arena - TEDxBahiaBlanca|https://www.youtube.com/watch?v=4JDu69Jy41Y|
