@@ -36,3 +36,4 @@ Interración, Sincronización y Acomplamiento
 |Video|Atrévete a cambiar un hábito - Yesid Barrera - TEDxUFM|https://www.youtube.com/watch?v=fE8y9V-XyWw|
 |Video|Leer es resistir - Benito Taibo - TEDxUNAMAcatlán|https://www.youtube.com/watch?v=iTEz1yOmepQ|
 |Video|Hazte Cargo de ti - Ricardo Morán TEDxLima|https://www.youtube.com/watch?v=okumzdhTId0|
+|Video|Zapatos nuevos - Pachi Tamer - TEDxRosario|https://www.youtube.com/watch?v=13Dy45RHFlk|
