@@ -51,7 +51,7 @@ Interración, Sincronización y Acomplamiento
 |Video|LO QUE TÚ PUEDES HACER POR LA DEMOCRACIA - Mariana Niembro - TEDxCiudadDeMéxico|https://www.youtube.com/watch?v=u-N0f__Sn6g|
 |Video|Urbanismo Inverso  - Margherita Valle - TEDxPuraVida|https://www.youtube.com/watch?v=KZonwEBPYDE|
 |Video|Creación colectiva para una nueva política - Mercurio Cadena - TEDxITAM|https://www.youtube.com/watch?v=F_8G74P_7XI|
-|Video|Participation ciudadana y democracia | Juan Francisco Trujillo | TEDxQuito|https://www.youtube.com/watch?v=MG28M0JCg0k|
+|Video|Participation ciudadana y democracia - Juan Francisco Trujillo - TEDxQuito|https://www.youtube.com/watch?v=MG28M0JCg0k|
 |Video|Innovación en política pública - Rodrigo Ruiz Ballesteros - TEDxJardínZenea|https://www.youtube.com/watch?v=RVG_LX25JuM|
 |Video|Cómo nos manipulan en las redes sociales - Santiago Bilinkis - TEDxRiodelaPlata|https://www.youtube.com/watch?v=8nKCA9h-7BA|
 |Video|Cualquier persona puede aprender a hacer lo que sea - Valentín Muro - TEDxUCES|https://www.youtube.com/watch?v=cNXfOlKyPH4|
@@ -90,6 +90,6 @@ Interración, Sincronización y Acomplamiento
 |Contenido|Información|URl|
 | ----- | ----- | ----- |
 |Video|Los Amos del Dinero|https://www.youtube.com/watch?v=3r_-4GsEUzc|
-|Video|Bulos y certezas. ¿Por qué dudamos de la ciencia? | DW Documental|https://www.youtube.com/watch?v=A4azhF5pZWU|
+|Video|Bulos y certezas. ¿Por qué dudamos de la ciencia? - DW Documental|https://www.youtube.com/watch?v=A4azhF5pZWU|
 
 
