@@ -20,7 +20,7 @@ Frases de Hacking Civico
 
 Interración, Sincronización y Acomplamiento
 
-
+----
 
 ## Charlas TED
 |Contenido|Información|URl|
@@ -48,13 +48,22 @@ Interración, Sincronización y Acomplamiento
 |Video|La política es compleja (y negarlo es peligroso) - Kiko Llaneras - TEDxUPValència|https://www.youtube.com/watch?v=VVsKkzkmnvI|
 |Video|El poder de los no políticos para actualizar el sistema - Javier Medina - TEDxUCV|https://www.youtube.com/watch?v=NSk7uN9ywkE|
 |Video|Cuando sabes quien eres, sabes lo que tienes que hacer - Alejandra Acosta - TEDxYouth@Valladolid|https://www.youtube.com/watch?v=DC9pAFnmiWY|
-
+|Video|LO QUE TÚ PUEDES HACER POR LA DEMOCRACIA - Mariana Niembro - TEDxCiudadDeMéxico|https://www.youtube.com/watch?v=u-N0f__Sn6g|
+|Video|Urbanismo Inverso  - Margherita Valle - TEDxPuraVida|https://www.youtube.com/watch?v=KZonwEBPYDE|
+|Video|Creación colectiva para una nueva política - Mercurio Cadena - TEDxITAM|https://www.youtube.com/watch?v=F_8G74P_7XI|
+|Video|Participation ciudadana y democracia | Juan Francisco Trujillo | TEDxQuito|https://www.youtube.com/watch?v=MG28M0JCg0k|
+|Video|Innovación en política pública - Rodrigo Ruiz Ballesteros - TEDxJardínZenea|https://www.youtube.com/watch?v=RVG_LX25JuM|
+|Video|Cómo nos manipulan en las redes sociales - Santiago Bilinkis - TEDxRiodelaPlata|https://www.youtube.com/watch?v=8nKCA9h-7BA|
+|Video|Cualquier persona puede aprender a hacer lo que sea - Valentín Muro - TEDxUCES|https://www.youtube.com/watch?v=cNXfOlKyPH4|
+|Video|Hacia una renovacion social: Joan Mele at TEDx Burgos|https://www.youtube.com/watch?v=gcpGscR0gf8|
+|Video|¿Nueva? Política - Fernando Tellado - TEDxGranVíaSalon|https://www.youtube.com/watch?v=n0UdNw3_qnk|
+|Video|Democracia y nuevas tecnologías - Agustín Frizzera - TEDxMontevideo|https://www.youtube.com/watch?v=qJn3XVme-oQ|
+|Video|El poder del espacio - Ximena Peredo - TEDxUERRE|https://www.youtube.com/watch?v=8-qc_n7HISI|
+|Video|Una nueva versión de ciudadanía está disponible, ¿desea actualizar? - Eduardo Blancas - TEDxITESMCCM|https://www.youtube.com/watch?v=OYhnkOPG874|
+|Contenido|Polarización política: "La izquierda es derecha" - Oswaldo Casares - TEDxCalzadaDeLosHéroes|https://www.youtube.com/watch?v=SHtirPgxwuo|
 |Contenido|Información|URl|
 
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
+----
 
 
 ## Aprendemos Juntos
@@ -70,29 +79,17 @@ Interración, Sincronización y Acomplamiento
 |Video|“Las matemáticas nos hacen más libres y menos manipulables”. Eduardo Sáenz de Cabezón|https://www.youtube.com/watch?v=BbA5dpS4CcI|
 |Video|Matemáticas para la vida real. Adrián Paenza, matemático|https://www.youtube.com/watch?v=V33U1OsFVnQ|
 |Video|“La educación es un arma muy importante para la autoestima”. Dr. Valentín Fuster|https://www.youtube.com/watch?v=ra0QjuGlk7Y|
-|Video||LO QUE TÚ PUEDES HACER POR LA DEMOCRACIA| | Mariana Niembro | TEDxCiudadDeMéxico|https://www.youtube.com/watch?v=u-N0f__Sn6g|
-
-|Contenido|Información|https://www.youtube.com/watch?v=gcpGscR0gf8|
-
-|Contenido|Información|Polarización política: "La izquierda es derecha" - Oswaldo Casares | https://www.youtube.com/watch?v=SHtirPgxwuo|
+|Video|Información Polarización política: "La izquierda es derecha" - Oswaldo Casares | https://www.youtube.com/watch?v=SHtirPgxwuo|
+|Contenido|Versión Completa: Victor Küppers, El valor de tu actitud|https://www.youtube.com/watch?v=Z3_f6a-YrY8|
 |Contenido|Información|URl|
 
+----
+
+
+## Teorias razonables
 |Contenido|Información|URl|
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-|Contenido|Información|URl|
-
-|Contenido|Información|URl|
-
-
-
-
-
-
-
+| ----- | ----- | ----- |
 |Video|Los Amos del Dinero|https://www.youtube.com/watch?v=3r_-4GsEUzc|
-
 |Video|Bulos y certezas. ¿Por qué dudamos de la ciencia? | DW Documental|https://www.youtube.com/watch?v=A4azhF5pZWU|
 
-|Contenido|Información|URl|
+
