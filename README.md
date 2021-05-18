@@ -80,8 +80,8 @@ Interración, Sincronización y Acomplamiento
 |Video|Matemáticas para la vida real. Adrián Paenza, matemático|https://www.youtube.com/watch?v=V33U1OsFVnQ|
 |Video|“La educación es un arma muy importante para la autoestima”. Dr. Valentín Fuster|https://www.youtube.com/watch?v=ra0QjuGlk7Y|
 |Video|Información Polarización política: "La izquierda es derecha" - Oswaldo Casares | https://www.youtube.com/watch?v=SHtirPgxwuo|
-|Contenido|Versión Completa: Victor Küppers, El valor de tu actitud|https://www.youtube.com/watch?v=Z3_f6a-YrY8|
-|Contenido|Información|URl|
+|Video|Versión Completa: Victor Küppers, El valor de tu actitud|https://www.youtube.com/watch?v=Z3_f6a-YrY8|
+|Video|Un viaje por el arte y la música a través de las emociones. Ramon Gener|https://www.youtube.com/watch?v=hMXe6OF3phM|
 
 ----
 
