@@ -96,3 +96,12 @@ Interración, Sincronización y Acomplamiento
 |Video|Bulos y certezas. ¿Por qué dudamos de la ciencia? - DW Documental|https://www.youtube.com/watch?v=A4azhF5pZWU|
 
 
+----
+
+## Casos de análisis 
+|Contenido|Información|URl|
+| ----- | ----- | ----- |
+|Video|Liechtenstein - Un País Fabulosamente Rico Que No Tiene Un Idioma Ni Moneda Propios|https://www.youtube.com/watch?v=TPD3cozQVcc|
+|Video|Bulos y certezas. ¿Por qué dudamos de la ciencia? - DW Documental|https://www.youtube.com/watch?v=A4azhF5pZWU|
+
+
