@@ -82,6 +82,7 @@ Interración, Sincronización y Acomplamiento
 |Video|Información Polarización política: "La izquierda es derecha" - Oswaldo Casares | https://www.youtube.com/watch?v=SHtirPgxwuo|
 |Video|Versión Completa: Victor Küppers, El valor de tu actitud|https://www.youtube.com/watch?v=Z3_f6a-YrY8|
 |Video|Un viaje por el arte y la música a través de las emociones. Ramon Gener|https://www.youtube.com/watch?v=hMXe6OF3phM|
+|Video|Versión Completa. Las palabras forjan nuestra personalidad, Luis Castellanos|https://www.youtube.com/watch?v=FzSOzxiNtFQ|
 
 ----
 
